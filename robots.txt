@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipikoali.github.io/ENl/sitemap_index.txt
+Sitemap: https://ipikoali.github.io/ROp/sitemap_index.txt
+Sitemap: https://ipikoali.github.io/TFm/sitemap_index.txt
+Sitemap: https://ipikoali.github.io/liK/sitemap_index.txt
